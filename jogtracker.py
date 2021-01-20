@@ -3,7 +3,7 @@
 """
 Created on Tue Jan 12 15:10:04 2021
 
-@author: blackiechan2011
+@author: davidfordjour
 """
 import matplotlib
 import matplotlib.pyplot as plt
@@ -48,4 +48,4 @@ print(x)
 plt.plot(x,y_axis)
 plt.xlabel("Date")
 plt.ylabel("Mins")
-plt.title("5km jogging times")
+plt.title("jogging times")
